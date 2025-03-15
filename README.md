@@ -1,6 +1,24 @@
 # Legal Search Engine
 
-A comprehensive search engine for legal documents, focusing on Property Right Ordinance and Pleaded Cases. The system provides intelligent search capabilities through machine learning models and offers an intuitive interface for legal professionals.
+A comprehensive search engine for legal documents, focusing on Property Right Ordinance and Pleaded Cases. This innovative system addresses the growing need for efficient legal document retrieval and analysis in the legal profession. By leveraging advanced machine learning technologies and natural language processing, it transforms the traditional document search process into an intelligent, context-aware system.
+
+## Project Overview
+
+In the rapidly evolving legal landscape, legal professionals face significant challenges in efficiently searching through vast collections of legal documents, ordinances, and court cases. This Legal Search Engine project introduces a revolutionary approach by combining multiple machine learning models, semantic search capabilities, and an AI-powered chatbot to provide precise, context-aware search results.
+
+### Key Objectives
+
+- **Efficient Document Retrieval**: Implement advanced search algorithms to quickly locate relevant legal documents, reducing research time for legal professionals.
+- **Intelligent Classification**: Utilize multiple machine learning models (SVM, Random Forest, XGBoost) to accurately classify legal judgments and documents.
+- **Natural Language Understanding**: Integrate Google's Gemini AI to enable natural language queries and provide intelligent, context-aware responses.
+- **User-Centric Design**: Deliver an intuitive interface that simplifies complex legal document searches while maintaining comprehensive functionality.
+
+### Innovation Highlights
+
+- **Multi-Model Approach**: Combines different machine learning models to achieve higher accuracy in document classification and retrieval.
+- **Semantic Search**: Implements BERT-based embeddings for understanding the context and meaning behind search queries.
+- **Specialized Legal Focus**: Particularly optimized for Property Right Ordinance and Pleaded Cases, with dedicated features for trademark-related searches.
+- **Progressive Web Application**: Offers a responsive, mobile-accessible interface with offline capabilities through PWA support.
 
 ## Interface Overview
 
@@ -134,3 +152,11 @@ python app.py
 - Authentication endpoints
 - Search history management
 - User profile management
+
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+
+## License
+
+This project is licensed under the ISC License - see the [LICENSE.md](LICENSE.md) file for details.
